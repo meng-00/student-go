@@ -45,7 +45,7 @@ func writeDemo3() {
 
 func main() {
 	// writeDemo1()
-	// writeDemo2()
+	writeDemo2()
 	writeDemo3()
 
 }

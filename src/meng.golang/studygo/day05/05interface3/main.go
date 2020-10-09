@@ -59,6 +59,7 @@ func main() { // 定义一个接口类型的变量
 	a1 = bc
 	a1.eat("小黄花")
 	fmt.Printf("%T\n", a1)
+	a1.move()
 	fmt.Println(a1)
 
 	a1 = kfc

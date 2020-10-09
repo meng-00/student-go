@@ -33,6 +33,7 @@ func main() {
 	p1 := newPerson("元帅", 18)
 	p2 := newPerson("周琳", 9000)
 	fmt.Println(p1, p2)
+	fmt.Println(p1.name, p2.age)
 	d1 := newDog("周琳")
 	fmt.Println(d1)
 }

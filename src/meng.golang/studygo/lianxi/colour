@@ -1,0 +1,1 @@
+// fmt.Printf("\033[32mThis is a color test.\033[0m")
